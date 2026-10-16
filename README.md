@@ -1,6 +1,6 @@
 # Task Tracker
 
-A clean, responsive Task Tracker built with **React + Vite** for the JTRONIX Frontend Internship Assessment. No backend or database is needed. Tasks are stored in the browser's `localStorage`.
+A clean, responsive Task Tracker built with **React + Vite** for the JTRONIX Frontend Internship Assessment. Tasks are stored in the browser's `localStorage`.
 
 
 ## Assessment checklist
