@@ -2,11 +2,6 @@
 
 A clean, responsive Task Tracker built with **React + Vite** for the JTRONIX Frontend Internship Assessment. No backend or database is needed. Tasks are stored in the browser's `localStorage`.
 
-## Screenshots
-
-| Light | Dark | Mobile |
-| --- | --- | --- |
-| ![Light](screenshots/desktop-light.png) | ![Dark](screenshots/desktop-dark.png) | ![Mobile](screenshots/mobile.png) |
 
 ## Assessment checklist
 
@@ -66,12 +61,3 @@ src/
 .github/workflows/deploy.yml   auto-deploy to GitHub Pages
 ```
 
-## Deploy (optional)
-
-The included GitHub Actions workflow deploys to GitHub Pages on every push to `main`. In the repository go to **Settings → Pages → Source → GitHub Actions**.
-
-Live URL: _add your URL here after deploying_
-
-## What remains
-
-Everything required in 1.1, 1.2 and 1.3 is implemented.
